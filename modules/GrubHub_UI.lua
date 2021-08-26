@@ -45,7 +45,7 @@ local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 local Chat = game:GetService("Chat")
 
-local Assets = loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/GrubHub/main/modules/return/Assets"))()
+local Assets = loadstring(game:HttpGet("https://raw.githubusercontent.com/botisznt/GrubHub/main/modules/return/Assets"))()
 
 repeat wait() until Assets ~= nil
 
